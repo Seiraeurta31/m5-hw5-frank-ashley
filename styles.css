@@ -67,7 +67,7 @@ nav {
 
 /*Styling for body background */
 body {
-    background-image: url('../assets/full-bloom.webp');
+    background-image: url("assets/full-bloom.webp");
     background-position: top 400px;
 
 }
