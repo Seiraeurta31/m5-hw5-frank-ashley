@@ -9,7 +9,7 @@
 
 
 
-/* Styling for header area */
+/* Styling for navigation bar */
 
 .header {
     background-color: white;
@@ -25,7 +25,6 @@
     padding-left: 50px;
     text-decoration: none;
     font-family: 'Rock Salt', cursive;
-
 }
 
 .dividerLink {
@@ -36,7 +35,6 @@
     text-decoration: none;
     border-left: 2px solid black; 
     font-family: 'Rock Salt', cursive;
-
 }
 
 .link-active {
@@ -67,7 +65,7 @@ nav {
 
 
 
-/*Styling for body section */
+/*Styling for body background */
 body {
     background-image: url(/assets/full-bloom.webp);
     background-position: top 400px;
@@ -91,11 +89,10 @@ h6 {
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 30px;
     border-bottom: 2px solid black; 
     margin: 5px 0 20px 0;  
     font-family: 'Rock Salt', cursive;
-
 }
 
 h3 {
@@ -150,7 +147,6 @@ aside > img {
     background-color: rgb(146, 150, 155);
     padding-bottom: 400px;
     border-top: 3px solid black;
-    
 }
 
 footer > p {
